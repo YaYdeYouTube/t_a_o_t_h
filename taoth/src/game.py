@@ -2,8 +2,8 @@ import pygame
 import pytmx
 import pyscroll
 
-from src.map import MapManager
-from src.player import Player
+from map import MapManager
+from player import Player
 
 
 class Game:
